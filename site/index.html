@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KOTI — Votre bulle du mieux-être</title>
+  <meta name="description" content="Démo complète du site KOTI 2.0 : parcours patient, parcours professionnel, prise de rendez-vous, boutique, annuaire de thérapeutes.">
+  <meta name="theme-color" content="#F7F5F1">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='9' fill='%23B0C1B1'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#mainContent">Aller au contenu principal</a>
+
+  <div id="headerMount"></div>
+  <main id="mainContent"></main>
+  <div id="footerMount"></div>
+
+  <!--
+    Chargement en scripts globaux classiques (pas de modules ES) afin que la
+    démo fonctionne en ouvrant simplement ce fichier dans un navigateur,
+    sans serveur local ni étape de build.
+    Ordre important : data → utils → layout → components → pages → router → app.
+  -->
+  <script src="js/data.js"></script>
+  <script src="js/utils.js"></script>
+  <script src="js/layout.js"></script>
+  <script src="js/components.js"></script>
+  <script src="js/pages-general.js"></script>
+  <script src="js/pages-patient.js"></script>
+  <script src="js/pages-pro.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/editmode.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

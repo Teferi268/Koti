@@ -1,0 +1,188 @@
+[
+  {
+    "file": "assets_koti/site_ready/home_logo_header_crop.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      18,
+      8,
+      185,
+      68
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_hero_left_lounge.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      0,
+      75,
+      338,
+      355
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_hero_right_reception.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      640,
+      75,
+      941,
+      355
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_orientation_patient_photo.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      96,
+      360,
+      443,
+      518
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_orientation_professional_photo.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      462,
+      360,
+      789,
+      518
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_editorial_vision_image.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      36,
+      1120,
+      299,
+      1198
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_editorial_histoire_bouquet.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      306,
+      1120,
+      566,
+      1198
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_editorial_valeurs_image.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      574,
+      1120,
+      879,
+      1198
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_visit_video_image.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      36,
+      1354,
+      299,
+      1464
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_actualite_event_image.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      489,
+      1388,
+      661,
+      1461
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_team_charline_crop.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      715,
+      1390,
+      763,
+      1448
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_team_yoann_crop.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      716,
+      1488,
+      765,
+      1547
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/home_footer_monogram_crop.jpg",
+    "source": "crop depuis image de reference accueil",
+    "box": [
+      835,
+      1590,
+      932,
+      1668
+    ]
+  },
+  {
+    "file": "assets_koti/site_ready/general_hero_espace_soin_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/cta_final_canape_koti_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/vision_lion_charline_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/histoire_enfance_charline_yoann_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/histoire_cafe_coeur_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/valeurs_equipe_discussion_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/valeurs_enfance_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/equipe_charline_yoann_table_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/equipe_charline_yoann_portrait_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/actualites_table_basse_fleurs_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/actualites_a_la_une_portes_ouvertes_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/actualites_articles_programmes_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/contact_charline_bureau_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  },
+  {
+    "file": "assets_koti/site_ready/rendezvous_charline_telephone_pdf.jpg",
+    "source": "photo ou visuel extrait du PDF"
+  }
+]

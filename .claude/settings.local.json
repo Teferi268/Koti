@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -ohE 'class=\\\\\\\\?\"[^\"\\\\\\\\]*\"' js/*.js)",
+      "Bash(grep -v '^$')",
+      "Bash(echo \"exit:$?\")",
+      "Read(//tmp/**)",
+      "Bash(rm -f \"/c/Users/Mathieu/Desktop/Koti/_shot_\"*.png)",
+      "Bash(node --check js/pages-general.js)",
+      "Bash(node --check js/components.js)",
+      "Bash(python \"/c/Users/Mathieu/AppData/Local/Temp/claude/c--Users-Mathieu-Desktop-Koti/d99661a7-ff64-4d2d-bdd8-619ba3e7c265/scratchpad/test_koti.py\")",
+      "Bash(rm -f \"/c/Users/Mathieu/Desktop/Koti/\"_shot_*.png *)",
+      "Bash(python \"/c/Users/Mathieu/AppData/Local/Temp/claude/c--Users-Mathieu-Desktop-Koti/d99661a7-ff64-4d2d-bdd8-619ba3e7c265/scratchpad/inspect_hero.py\")",
+      "Bash(python \"/c/Users/Mathieu/AppData/Local/Temp/claude/c--Users-Mathieu-Desktop-Koti/d99661a7-ff64-4d2d-bdd8-619ba3e7c265/scratchpad/inspect_artifact.py\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Mathieu\\Desktop\\Koti"
+    ]
+  }
+}
